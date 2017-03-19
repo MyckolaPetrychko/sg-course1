@@ -1,0 +1,4 @@
+[2017-03-19 18:52:31] log.INFO: 2017-03-19 18:52:31 - Created new news with id  [] []
+[2017-03-19 18:54:06] log.INFO: 2017-03-19 18:54:06 - Deleted news with id 192 [] []
+[2017-03-19 18:54:11] log.INFO: 2017-03-19 18:54:11 - Deleted news with id 191 [] []
+[2017-03-19 18:55:12] log.INFO: 2017-03-19 18:55:12 - Added new news with id 190 [] []

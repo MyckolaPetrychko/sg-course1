@@ -1,0 +1,2 @@
+- [The Routing Component](http://symfony.com/doc/current/components/routing.html)
+- [The HttpFoundation Component](http://symfony.com/doc/current/components/http_foundation.html)
